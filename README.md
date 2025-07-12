@@ -119,7 +119,7 @@ UniTechCollegeSystem
 - **insert_courses_modules.sql**: Inserts sample course and module data into the database for testing/demo purposes.
 
 ### Project Report:
-- **Design and Development of an Integrated University IT College System - An Agile Approach Report.pdf**: The final academic report describing the system's planning, development, and evaluation.
+- **Design and Development of an Integrated University IT College System - An Agile Approach Report.pdf**: The final report describing the system's planning, development, and evaluation.
 
 ### Other Files:
 - **LICENSE**: MIT License for open-source use.
