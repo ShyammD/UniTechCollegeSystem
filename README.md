@@ -1,6 +1,6 @@
 # UniTechCollegeSystem
 
-## Project Overview
+## Project Overview:
 The **UniTech College System** is a dynamic web-based student enrolment platform developed using **ASP.NET Web Forms** and a **MySQL** backend. It enables students to register, log in securely, enrol in courses and modules, and manage their academic profile. The system is designed with a focus on user experience, functionality, and clean, professional UI styling.
 
 ## Features
@@ -126,7 +126,7 @@ UniTechCollegeSystem
 - **README.md**: This documentation file describing the project.
 - **UniTechCollegeSystem.sln**: The Visual Studio solution file to open the entire project.
 
-## Contributing:
+## Contributing
 Contributions are welcome!
 
 If you spot a bug, have an idea for improvement, or want to contribute a new feature, feel free to open an issue or submit a pull request.
