@@ -1,0 +1,69 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="UniTechCollegeSystem.SiteMaster" %>
+
+<!DOCTYPE html>
+<html lang="en">
+<head runat="server">
+    <meta charset="utf-8" />
+    <title>UniTech College System</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" />
+</head>
+<body>
+    <form runat="server">
+        <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+            <div class="container-fluid">
+
+                <!-- Logo and brand name -->
+                <a class="navbar-brand d-flex align-items-center" href='<%= ResolveUrl("~/Pages/Home.aspx") %>'>
+                    <img src='<%= ResolveUrl("~/Images/UniTech College Logo.png") %>' alt="UniTech Logo" style="height:30px; width:auto; margin-right:10px;" />
+                    <span class="text-white fw-bold">UniTech College</span>
+                </a>
+
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+
+                <div class="collapse navbar-collapse" id="navbarNav">
+                    <ul class="navbar-nav ms-auto">
+
+                        <!-- Home -->
+                        <li class="nav-item">
+                            <a class="nav-link" href='<%= ResolveUrl("~/Pages/Home.aspx") %>'>Home</a>
+                        </li>
+
+                        <!-- About just after Home -->
+                        <li class="nav-item">
+                            <a class="nav-link" href='<%= ResolveUrl("~/Pages/AboutUs.aspx") %>'>About</a>
+                        </li>
+
+                        <!-- Courses -->
+                        <li class="nav-item">
+                            <a class="nav-link" href='<%= ResolveUrl("~/Pages/Courses.aspx") %>'>Courses</a>
+                        </li>
+
+                        <!-- Not logged in -->
+                        <li class="nav-item" runat="server" id="navRegister">
+                            <a class="nav-link" href='<%= ResolveUrl("~/Pages/Register.aspx") %>'>Register</a>
+                        </li>
+                        <li class="nav-item" runat="server" id="navLogin">
+                            <a class="nav-link" href='<%= ResolveUrl("~/Pages/Login.aspx") %>'>Login</a>
+                        </li>
+
+                        <!-- Logged in -->
+                        <li class="nav-item" runat="server" id="navProfile" visible="false">
+                            <a class="nav-link" href='<%= ResolveUrl("~/Pages/Dashboard.aspx") %>'>Profile</a>
+                        </li>
+                        <li class="nav-item" runat="server" id="navLogout" visible="false">
+                            <asp:LinkButton ID="btnLogout" runat="server" CssClass="nav-link text-danger" OnClick="btnLogout_Click">Logout</asp:LinkButton>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+
+        <asp:ContentPlaceHolder ID="MainContent" runat="server" />
+    </form>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>

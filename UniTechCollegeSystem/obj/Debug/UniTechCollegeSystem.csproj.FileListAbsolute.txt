@@ -1,0 +1,426 @@
+C:\Users\Shyam Dattani\source\repos\UniTechCollegeSystem\UniTechCollegeSystem\bin\UniTechCollegeSystem.dll.config
+C:\Users\Shyam Dattani\source\repos\UniTechCollegeSystem\UniTechCollegeSystem\bin\UniTechCollegeSystem.dll
+C:\Users\Shyam Dattani\source\repos\UniTechCollegeSystem\UniTechCollegeSystem\bin\UniTechCollegeSystem.pdb
+C:\Users\Shyam Dattani\source\repos\UniTechCollegeSystem\UniTechCollegeSystem\bin\roslyn\csc.exe
+C:\Users\Shyam Dattani\source\repos\UniTechCollegeSystem\UniTechCollegeSystem\bin\roslyn\csc.exe.config
+C:\Users\Shyam Dattani\source\repos\UniTechCollegeSystem\UniTechCollegeSystem\bin\roslyn\csc.rsp
+C:\Users\Shyam Dattani\source\repos\UniTechCollegeSystem\UniTechCollegeSystem\bin\roslyn\csi.exe
+C:\Users\Shyam Dattani\source\repos\UniTechCollegeSystem\UniTechCollegeSystem\bin\roslyn\csi.exe.config
+C:\Users\Shyam Dattani\source\repos\UniTechCollegeSystem\UniTechCollegeSystem\bin\roslyn\csi.rsp
+C:\Users\Shyam Dattani\source\repos\UniTechCollegeSystem\UniTechCollegeSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Shyam Dattani\source\repos\UniTechCollegeSystem\UniTechCollegeSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Shyam Dattani\source\repos\UniTechCollegeSystem\UniTechCollegeSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Shyam Dattani\source\repos\UniTechCollegeSystem\UniTechCollegeSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Shyam Dattani\source\repos\UniTechCollegeSystem\UniTechCollegeSystem\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Shyam Dattani\source\repos\UniTechCollegeSystem\UniTechCollegeSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Shyam Dattani\source\repos\UniTechCollegeSystem\UniTechCollegeSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Shyam Dattani\source\repos\UniTechCollegeSystem\UniTechCollegeSystem\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Shyam Dattani\source\repos\UniTechCollegeSystem\UniTechCollegeSystem\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Shyam Dattani\source\repos\UniTechCollegeSystem\UniTechCollegeSystem\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+C:\Users\Shyam Dattani\source\repos\UniTechCollegeSystem\UniTechCollegeSystem\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Shyam Dattani\source\repos\UniTechCollegeSystem\UniTechCollegeSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Shyam Dattani\source\repos\UniTechCollegeSystem\UniTechCollegeSystem\bin\roslyn\System.Buffers.dll
+C:\Users\Shyam Dattani\source\repos\UniTechCollegeSystem\UniTechCollegeSystem\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Shyam Dattani\source\repos\UniTechCollegeSystem\UniTechCollegeSystem\bin\roslyn\System.Memory.dll
+C:\Users\Shyam Dattani\source\repos\UniTechCollegeSystem\UniTechCollegeSystem\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\Shyam Dattani\source\repos\UniTechCollegeSystem\UniTechCollegeSystem\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Shyam Dattani\source\repos\UniTechCollegeSystem\UniTechCollegeSystem\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Shyam Dattani\source\repos\UniTechCollegeSystem\UniTechCollegeSystem\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Shyam Dattani\source\repos\UniTechCollegeSystem\UniTechCollegeSystem\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Shyam Dattani\source\repos\UniTechCollegeSystem\UniTechCollegeSystem\bin\roslyn\vbc.exe
+C:\Users\Shyam Dattani\source\repos\UniTechCollegeSystem\UniTechCollegeSystem\bin\roslyn\vbc.exe.config
+C:\Users\Shyam Dattani\source\repos\UniTechCollegeSystem\UniTechCollegeSystem\bin\roslyn\vbc.rsp
+C:\Users\Shyam Dattani\source\repos\UniTechCollegeSystem\UniTechCollegeSystem\bin\roslyn\VBCSCompiler.exe
+C:\Users\Shyam Dattani\source\repos\UniTechCollegeSystem\UniTechCollegeSystem\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Shyam Dattani\source\repos\UniTechCollegeSystem\UniTechCollegeSystem\bin\Antlr3.Runtime.dll
+C:\Users\Shyam Dattani\source\repos\UniTechCollegeSystem\UniTechCollegeSystem\bin\BouncyCastle.Cryptography.dll
+C:\Users\Shyam Dattani\source\repos\UniTechCollegeSystem\UniTechCollegeSystem\bin\Google.Protobuf.dll
+C:\Users\Shyam Dattani\source\repos\UniTechCollegeSystem\UniTechCollegeSystem\bin\K4os.Compression.LZ4.dll
+C:\Users\Shyam Dattani\source\repos\UniTechCollegeSystem\UniTechCollegeSystem\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\Shyam Dattani\source\repos\UniTechCollegeSystem\UniTechCollegeSystem\bin\K4os.Hash.xxHash.dll
+C:\Users\Shyam Dattani\source\repos\UniTechCollegeSystem\UniTechCollegeSystem\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Shyam Dattani\source\repos\UniTechCollegeSystem\UniTechCollegeSystem\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Shyam Dattani\source\repos\UniTechCollegeSystem\UniTechCollegeSystem\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Shyam Dattani\source\repos\UniTechCollegeSystem\UniTechCollegeSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Shyam Dattani\source\repos\UniTechCollegeSystem\UniTechCollegeSystem\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Shyam Dattani\source\repos\UniTechCollegeSystem\UniTechCollegeSystem\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Shyam Dattani\source\repos\UniTechCollegeSystem\UniTechCollegeSystem\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Shyam Dattani\source\repos\UniTechCollegeSystem\UniTechCollegeSystem\bin\MySql.Data.dll
+C:\Users\Shyam Dattani\source\repos\UniTechCollegeSystem\UniTechCollegeSystem\bin\Newtonsoft.Json.dll
+C:\Users\Shyam Dattani\source\repos\UniTechCollegeSystem\UniTechCollegeSystem\bin\System.Buffers.dll
+C:\Users\Shyam Dattani\source\repos\UniTechCollegeSystem\UniTechCollegeSystem\bin\System.Configuration.ConfigurationManager.dll
+C:\Users\Shyam Dattani\source\repos\UniTechCollegeSystem\UniTechCollegeSystem\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Shyam Dattani\source\repos\UniTechCollegeSystem\UniTechCollegeSystem\bin\System.IO.Pipelines.dll
+C:\Users\Shyam Dattani\source\repos\UniTechCollegeSystem\UniTechCollegeSystem\bin\System.Memory.dll
+C:\Users\Shyam Dattani\source\repos\UniTechCollegeSystem\UniTechCollegeSystem\bin\System.Numerics.Vectors.dll
+C:\Users\Shyam Dattani\source\repos\UniTechCollegeSystem\UniTechCollegeSystem\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Shyam Dattani\source\repos\UniTechCollegeSystem\UniTechCollegeSystem\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Shyam Dattani\source\repos\UniTechCollegeSystem\UniTechCollegeSystem\bin\System.Web.Optimization.dll
+C:\Users\Shyam Dattani\source\repos\UniTechCollegeSystem\UniTechCollegeSystem\bin\WebGrease.dll
+C:\Users\Shyam Dattani\source\repos\UniTechCollegeSystem\UniTechCollegeSystem\bin\ZstdSharp.dll
+C:\Users\Shyam Dattani\source\repos\UniTechCollegeSystem\UniTechCollegeSystem\bin\BouncyCastle.Cryptography.xml
+C:\Users\Shyam Dattani\source\repos\UniTechCollegeSystem\UniTechCollegeSystem\bin\Google.Protobuf.pdb
+C:\Users\Shyam Dattani\source\repos\UniTechCollegeSystem\UniTechCollegeSystem\bin\Google.Protobuf.xml
+C:\Users\Shyam Dattani\source\repos\UniTechCollegeSystem\UniTechCollegeSystem\bin\K4os.Compression.LZ4.xml
+C:\Users\Shyam Dattani\source\repos\UniTechCollegeSystem\UniTechCollegeSystem\bin\K4os.Compression.LZ4.Streams.xml
+C:\Users\Shyam Dattani\source\repos\UniTechCollegeSystem\UniTechCollegeSystem\bin\K4os.Hash.xxHash.xml
+C:\Users\Shyam Dattani\source\repos\UniTechCollegeSystem\UniTechCollegeSystem\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Shyam Dattani\source\repos\UniTechCollegeSystem\UniTechCollegeSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Shyam Dattani\source\repos\UniTechCollegeSystem\UniTechCollegeSystem\bin\MySql.Data.xml
+C:\Users\Shyam Dattani\source\repos\UniTechCollegeSystem\UniTechCollegeSystem\bin\System.Buffers.xml
+C:\Users\Shyam Dattani\source\repos\UniTechCollegeSystem\UniTechCollegeSystem\bin\System.Configuration.ConfigurationManager.xml
+C:\Users\Shyam Dattani\source\repos\UniTechCollegeSystem\UniTechCollegeSystem\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Shyam Dattani\source\repos\UniTechCollegeSystem\UniTechCollegeSystem\bin\System.IO.Pipelines.xml
+C:\Users\Shyam Dattani\source\repos\UniTechCollegeSystem\UniTechCollegeSystem\bin\System.Memory.xml
+C:\Users\Shyam Dattani\source\repos\UniTechCollegeSystem\UniTechCollegeSystem\bin\System.Numerics.Vectors.xml
+C:\Users\Shyam Dattani\source\repos\UniTechCollegeSystem\UniTechCollegeSystem\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Shyam Dattani\source\repos\UniTechCollegeSystem\UniTechCollegeSystem\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Shyam Dattani\source\repos\UniTechCollegeSystem\UniTechCollegeSystem\bin\System.Web.Optimization.xml
+C:\Users\Shyam Dattani\source\repos\UniTechCollegeSystem\UniTechCollegeSystem\bin\Newtonsoft.Json.xml
+C:\Users\Shyam Dattani\source\repos\UniTechCollegeSystem\UniTechCollegeSystem\bin\Antlr3.Runtime.pdb
+C:\Users\Shyam Dattani\source\repos\UniTechCollegeSystem\UniTechCollegeSystem\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Shyam Dattani\source\repos\UniTechCollegeSystem\UniTechCollegeSystem\obj\Debug\UniTechCollegeSystem.csproj.AssemblyReference.cache
+C:\Users\Shyam Dattani\source\repos\UniTechCollegeSystem\UniTechCollegeSystem\obj\Debug\UniTechCollegeSystem.csproj.CoreCompileInputs.cache
+C:\Users\Shyam Dattani\source\repos\UniTechCollegeSystem\UniTechCollegeSystem\obj\Debug\UniTechC.22ECEDD7.Up2Date
+C:\Users\Shyam Dattani\source\repos\UniTechCollegeSystem\UniTechCollegeSystem\obj\Debug\UniTechCollegeSystem.dll
+C:\Users\Shyam Dattani\source\repos\UniTechCollegeSystem\UniTechCollegeSystem\obj\Debug\UniTechCollegeSystem.pdb
+C:\Users\gavin\Desktop\UniTechCollegeSystem\UniTechCollegeSystem\bin\UniTechCollegeSystem.dll.config
+C:\Users\gavin\Desktop\UniTechCollegeSystem\UniTechCollegeSystem\bin\UniTechCollegeSystem.dll
+C:\Users\gavin\Desktop\UniTechCollegeSystem\UniTechCollegeSystem\bin\UniTechCollegeSystem.pdb
+C:\Users\gavin\Desktop\UniTechCollegeSystem\UniTechCollegeSystem\bin\roslyn\csc.exe
+C:\Users\gavin\Desktop\UniTechCollegeSystem\UniTechCollegeSystem\bin\roslyn\csc.exe.config
+C:\Users\gavin\Desktop\UniTechCollegeSystem\UniTechCollegeSystem\bin\roslyn\csc.rsp
+C:\Users\gavin\Desktop\UniTechCollegeSystem\UniTechCollegeSystem\bin\roslyn\csi.exe
+C:\Users\gavin\Desktop\UniTechCollegeSystem\UniTechCollegeSystem\bin\roslyn\csi.exe.config
+C:\Users\gavin\Desktop\UniTechCollegeSystem\UniTechCollegeSystem\bin\roslyn\csi.rsp
+C:\Users\gavin\Desktop\UniTechCollegeSystem\UniTechCollegeSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\gavin\Desktop\UniTechCollegeSystem\UniTechCollegeSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\gavin\Desktop\UniTechCollegeSystem\UniTechCollegeSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\gavin\Desktop\UniTechCollegeSystem\UniTechCollegeSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\gavin\Desktop\UniTechCollegeSystem\UniTechCollegeSystem\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\gavin\Desktop\UniTechCollegeSystem\UniTechCollegeSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\gavin\Desktop\UniTechCollegeSystem\UniTechCollegeSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\gavin\Desktop\UniTechCollegeSystem\UniTechCollegeSystem\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\gavin\Desktop\UniTechCollegeSystem\UniTechCollegeSystem\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\gavin\Desktop\UniTechCollegeSystem\UniTechCollegeSystem\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+C:\Users\gavin\Desktop\UniTechCollegeSystem\UniTechCollegeSystem\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\gavin\Desktop\UniTechCollegeSystem\UniTechCollegeSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\gavin\Desktop\UniTechCollegeSystem\UniTechCollegeSystem\bin\roslyn\System.Buffers.dll
+C:\Users\gavin\Desktop\UniTechCollegeSystem\UniTechCollegeSystem\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\gavin\Desktop\UniTechCollegeSystem\UniTechCollegeSystem\bin\roslyn\System.Memory.dll
+C:\Users\gavin\Desktop\UniTechCollegeSystem\UniTechCollegeSystem\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\gavin\Desktop\UniTechCollegeSystem\UniTechCollegeSystem\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\gavin\Desktop\UniTechCollegeSystem\UniTechCollegeSystem\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\gavin\Desktop\UniTechCollegeSystem\UniTechCollegeSystem\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\gavin\Desktop\UniTechCollegeSystem\UniTechCollegeSystem\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\gavin\Desktop\UniTechCollegeSystem\UniTechCollegeSystem\bin\roslyn\vbc.exe
+C:\Users\gavin\Desktop\UniTechCollegeSystem\UniTechCollegeSystem\bin\roslyn\vbc.exe.config
+C:\Users\gavin\Desktop\UniTechCollegeSystem\UniTechCollegeSystem\bin\roslyn\vbc.rsp
+C:\Users\gavin\Desktop\UniTechCollegeSystem\UniTechCollegeSystem\bin\roslyn\VBCSCompiler.exe
+C:\Users\gavin\Desktop\UniTechCollegeSystem\UniTechCollegeSystem\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\gavin\Desktop\UniTechCollegeSystem\UniTechCollegeSystem\bin\Antlr3.Runtime.dll
+C:\Users\gavin\Desktop\UniTechCollegeSystem\UniTechCollegeSystem\bin\BouncyCastle.Cryptography.dll
+C:\Users\gavin\Desktop\UniTechCollegeSystem\UniTechCollegeSystem\bin\Google.Protobuf.dll
+C:\Users\gavin\Desktop\UniTechCollegeSystem\UniTechCollegeSystem\bin\K4os.Compression.LZ4.dll
+C:\Users\gavin\Desktop\UniTechCollegeSystem\UniTechCollegeSystem\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\gavin\Desktop\UniTechCollegeSystem\UniTechCollegeSystem\bin\K4os.Hash.xxHash.dll
+C:\Users\gavin\Desktop\UniTechCollegeSystem\UniTechCollegeSystem\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\gavin\Desktop\UniTechCollegeSystem\UniTechCollegeSystem\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\gavin\Desktop\UniTechCollegeSystem\UniTechCollegeSystem\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\gavin\Desktop\UniTechCollegeSystem\UniTechCollegeSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\gavin\Desktop\UniTechCollegeSystem\UniTechCollegeSystem\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\gavin\Desktop\UniTechCollegeSystem\UniTechCollegeSystem\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\gavin\Desktop\UniTechCollegeSystem\UniTechCollegeSystem\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\gavin\Desktop\UniTechCollegeSystem\UniTechCollegeSystem\bin\MySql.Data.dll
+C:\Users\gavin\Desktop\UniTechCollegeSystem\UniTechCollegeSystem\bin\Newtonsoft.Json.dll
+C:\Users\gavin\Desktop\UniTechCollegeSystem\UniTechCollegeSystem\bin\System.Buffers.dll
+C:\Users\gavin\Desktop\UniTechCollegeSystem\UniTechCollegeSystem\bin\System.Configuration.ConfigurationManager.dll
+C:\Users\gavin\Desktop\UniTechCollegeSystem\UniTechCollegeSystem\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\gavin\Desktop\UniTechCollegeSystem\UniTechCollegeSystem\bin\System.IO.Pipelines.dll
+C:\Users\gavin\Desktop\UniTechCollegeSystem\UniTechCollegeSystem\bin\System.Memory.dll
+C:\Users\gavin\Desktop\UniTechCollegeSystem\UniTechCollegeSystem\bin\System.Numerics.Vectors.dll
+C:\Users\gavin\Desktop\UniTechCollegeSystem\UniTechCollegeSystem\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\gavin\Desktop\UniTechCollegeSystem\UniTechCollegeSystem\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\gavin\Desktop\UniTechCollegeSystem\UniTechCollegeSystem\bin\System.Web.Optimization.dll
+C:\Users\gavin\Desktop\UniTechCollegeSystem\UniTechCollegeSystem\bin\WebGrease.dll
+C:\Users\gavin\Desktop\UniTechCollegeSystem\UniTechCollegeSystem\bin\ZstdSharp.dll
+C:\Users\gavin\Desktop\UniTechCollegeSystem\UniTechCollegeSystem\bin\BouncyCastle.Cryptography.xml
+C:\Users\gavin\Desktop\UniTechCollegeSystem\UniTechCollegeSystem\bin\Google.Protobuf.pdb
+C:\Users\gavin\Desktop\UniTechCollegeSystem\UniTechCollegeSystem\bin\Google.Protobuf.xml
+C:\Users\gavin\Desktop\UniTechCollegeSystem\UniTechCollegeSystem\bin\K4os.Compression.LZ4.xml
+C:\Users\gavin\Desktop\UniTechCollegeSystem\UniTechCollegeSystem\bin\K4os.Compression.LZ4.Streams.xml
+C:\Users\gavin\Desktop\UniTechCollegeSystem\UniTechCollegeSystem\bin\K4os.Hash.xxHash.xml
+C:\Users\gavin\Desktop\UniTechCollegeSystem\UniTechCollegeSystem\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\gavin\Desktop\UniTechCollegeSystem\UniTechCollegeSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\gavin\Desktop\UniTechCollegeSystem\UniTechCollegeSystem\bin\MySql.Data.xml
+C:\Users\gavin\Desktop\UniTechCollegeSystem\UniTechCollegeSystem\bin\System.Buffers.xml
+C:\Users\gavin\Desktop\UniTechCollegeSystem\UniTechCollegeSystem\bin\System.Configuration.ConfigurationManager.xml
+C:\Users\gavin\Desktop\UniTechCollegeSystem\UniTechCollegeSystem\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\gavin\Desktop\UniTechCollegeSystem\UniTechCollegeSystem\bin\System.IO.Pipelines.xml
+C:\Users\gavin\Desktop\UniTechCollegeSystem\UniTechCollegeSystem\bin\System.Memory.xml
+C:\Users\gavin\Desktop\UniTechCollegeSystem\UniTechCollegeSystem\bin\System.Numerics.Vectors.xml
+C:\Users\gavin\Desktop\UniTechCollegeSystem\UniTechCollegeSystem\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\gavin\Desktop\UniTechCollegeSystem\UniTechCollegeSystem\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\gavin\Desktop\UniTechCollegeSystem\UniTechCollegeSystem\bin\System.Web.Optimization.xml
+C:\Users\gavin\Desktop\UniTechCollegeSystem\UniTechCollegeSystem\bin\Newtonsoft.Json.xml
+C:\Users\gavin\Desktop\UniTechCollegeSystem\UniTechCollegeSystem\bin\Antlr3.Runtime.pdb
+C:\Users\gavin\Desktop\UniTechCollegeSystem\UniTechCollegeSystem\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\gavin\Desktop\UniTechCollegeSystem\UniTechCollegeSystem\obj\Debug\UniTechCollegeSystem.csproj.AssemblyReference.cache
+C:\Users\gavin\Desktop\UniTechCollegeSystem\UniTechCollegeSystem\obj\Debug\UniTechCollegeSystem.csproj.CoreCompileInputs.cache
+C:\Users\gavin\Desktop\UniTechCollegeSystem\UniTechCollegeSystem\obj\Debug\UniTechC.22ECEDD7.Up2Date
+C:\Users\gavin\Desktop\UniTechCollegeSystem\UniTechCollegeSystem\obj\Debug\UniTechCollegeSystem.dll
+C:\Users\gavin\Desktop\UniTechCollegeSystem\UniTechCollegeSystem\obj\Debug\UniTechCollegeSystem.pdb
+D:\Users\Shyam Dattani\Downloads\UniTechCollegeSystem\UniTechCollegeSystem4\UniTechCollegeSystem\bin\UniTechCollegeSystem.dll.config
+D:\Users\Shyam Dattani\Downloads\UniTechCollegeSystem\UniTechCollegeSystem4\UniTechCollegeSystem\bin\UniTechCollegeSystem.dll
+D:\Users\Shyam Dattani\Downloads\UniTechCollegeSystem\UniTechCollegeSystem4\UniTechCollegeSystem\bin\UniTechCollegeSystem.pdb
+D:\Users\Shyam Dattani\Downloads\UniTechCollegeSystem\UniTechCollegeSystem4\UniTechCollegeSystem\bin\roslyn\csc.exe
+D:\Users\Shyam Dattani\Downloads\UniTechCollegeSystem\UniTechCollegeSystem4\UniTechCollegeSystem\bin\roslyn\csc.exe.config
+D:\Users\Shyam Dattani\Downloads\UniTechCollegeSystem\UniTechCollegeSystem4\UniTechCollegeSystem\bin\roslyn\csc.rsp
+D:\Users\Shyam Dattani\Downloads\UniTechCollegeSystem\UniTechCollegeSystem4\UniTechCollegeSystem\bin\roslyn\csi.exe
+D:\Users\Shyam Dattani\Downloads\UniTechCollegeSystem\UniTechCollegeSystem4\UniTechCollegeSystem\bin\roslyn\csi.exe.config
+D:\Users\Shyam Dattani\Downloads\UniTechCollegeSystem\UniTechCollegeSystem4\UniTechCollegeSystem\bin\roslyn\csi.rsp
+D:\Users\Shyam Dattani\Downloads\UniTechCollegeSystem\UniTechCollegeSystem4\UniTechCollegeSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Users\Shyam Dattani\Downloads\UniTechCollegeSystem\UniTechCollegeSystem4\UniTechCollegeSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Users\Shyam Dattani\Downloads\UniTechCollegeSystem\UniTechCollegeSystem4\UniTechCollegeSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Users\Shyam Dattani\Downloads\UniTechCollegeSystem\UniTechCollegeSystem4\UniTechCollegeSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Users\Shyam Dattani\Downloads\UniTechCollegeSystem\UniTechCollegeSystem4\UniTechCollegeSystem\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Users\Shyam Dattani\Downloads\UniTechCollegeSystem\UniTechCollegeSystem4\UniTechCollegeSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Users\Shyam Dattani\Downloads\UniTechCollegeSystem\UniTechCollegeSystem4\UniTechCollegeSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Users\Shyam Dattani\Downloads\UniTechCollegeSystem\UniTechCollegeSystem4\UniTechCollegeSystem\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Users\Shyam Dattani\Downloads\UniTechCollegeSystem\UniTechCollegeSystem4\UniTechCollegeSystem\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Users\Shyam Dattani\Downloads\UniTechCollegeSystem\UniTechCollegeSystem4\UniTechCollegeSystem\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+D:\Users\Shyam Dattani\Downloads\UniTechCollegeSystem\UniTechCollegeSystem4\UniTechCollegeSystem\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Users\Shyam Dattani\Downloads\UniTechCollegeSystem\UniTechCollegeSystem4\UniTechCollegeSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Users\Shyam Dattani\Downloads\UniTechCollegeSystem\UniTechCollegeSystem4\UniTechCollegeSystem\bin\roslyn\System.Buffers.dll
+D:\Users\Shyam Dattani\Downloads\UniTechCollegeSystem\UniTechCollegeSystem4\UniTechCollegeSystem\bin\roslyn\System.Collections.Immutable.dll
+D:\Users\Shyam Dattani\Downloads\UniTechCollegeSystem\UniTechCollegeSystem4\UniTechCollegeSystem\bin\roslyn\System.Memory.dll
+D:\Users\Shyam Dattani\Downloads\UniTechCollegeSystem\UniTechCollegeSystem4\UniTechCollegeSystem\bin\roslyn\System.Numerics.Vectors.dll
+D:\Users\Shyam Dattani\Downloads\UniTechCollegeSystem\UniTechCollegeSystem4\UniTechCollegeSystem\bin\roslyn\System.Reflection.Metadata.dll
+D:\Users\Shyam Dattani\Downloads\UniTechCollegeSystem\UniTechCollegeSystem4\UniTechCollegeSystem\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+D:\Users\Shyam Dattani\Downloads\UniTechCollegeSystem\UniTechCollegeSystem4\UniTechCollegeSystem\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Users\Shyam Dattani\Downloads\UniTechCollegeSystem\UniTechCollegeSystem4\UniTechCollegeSystem\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Users\Shyam Dattani\Downloads\UniTechCollegeSystem\UniTechCollegeSystem4\UniTechCollegeSystem\bin\roslyn\vbc.exe
+D:\Users\Shyam Dattani\Downloads\UniTechCollegeSystem\UniTechCollegeSystem4\UniTechCollegeSystem\bin\roslyn\vbc.exe.config
+D:\Users\Shyam Dattani\Downloads\UniTechCollegeSystem\UniTechCollegeSystem4\UniTechCollegeSystem\bin\roslyn\vbc.rsp
+D:\Users\Shyam Dattani\Downloads\UniTechCollegeSystem\UniTechCollegeSystem4\UniTechCollegeSystem\bin\roslyn\VBCSCompiler.exe
+D:\Users\Shyam Dattani\Downloads\UniTechCollegeSystem\UniTechCollegeSystem4\UniTechCollegeSystem\bin\roslyn\VBCSCompiler.exe.config
+D:\Users\Shyam Dattani\Downloads\UniTechCollegeSystem\UniTechCollegeSystem4\UniTechCollegeSystem\bin\Antlr3.Runtime.dll
+D:\Users\Shyam Dattani\Downloads\UniTechCollegeSystem\UniTechCollegeSystem4\UniTechCollegeSystem\bin\BouncyCastle.Cryptography.dll
+D:\Users\Shyam Dattani\Downloads\UniTechCollegeSystem\UniTechCollegeSystem4\UniTechCollegeSystem\bin\Google.Protobuf.dll
+D:\Users\Shyam Dattani\Downloads\UniTechCollegeSystem\UniTechCollegeSystem4\UniTechCollegeSystem\bin\K4os.Compression.LZ4.dll
+D:\Users\Shyam Dattani\Downloads\UniTechCollegeSystem\UniTechCollegeSystem4\UniTechCollegeSystem\bin\K4os.Compression.LZ4.Streams.dll
+D:\Users\Shyam Dattani\Downloads\UniTechCollegeSystem\UniTechCollegeSystem4\UniTechCollegeSystem\bin\K4os.Hash.xxHash.dll
+D:\Users\Shyam Dattani\Downloads\UniTechCollegeSystem\UniTechCollegeSystem4\UniTechCollegeSystem\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\Users\Shyam Dattani\Downloads\UniTechCollegeSystem\UniTechCollegeSystem4\UniTechCollegeSystem\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Users\Shyam Dattani\Downloads\UniTechCollegeSystem\UniTechCollegeSystem4\UniTechCollegeSystem\bin\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Users\Shyam Dattani\Downloads\UniTechCollegeSystem\UniTechCollegeSystem4\UniTechCollegeSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Users\Shyam Dattani\Downloads\UniTechCollegeSystem\UniTechCollegeSystem4\UniTechCollegeSystem\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\Users\Shyam Dattani\Downloads\UniTechCollegeSystem\UniTechCollegeSystem4\UniTechCollegeSystem\bin\Microsoft.ScriptManager.WebForms.dll
+D:\Users\Shyam Dattani\Downloads\UniTechCollegeSystem\UniTechCollegeSystem4\UniTechCollegeSystem\bin\Microsoft.Web.Infrastructure.dll
+D:\Users\Shyam Dattani\Downloads\UniTechCollegeSystem\UniTechCollegeSystem4\UniTechCollegeSystem\bin\Newtonsoft.Json.dll
+D:\Users\Shyam Dattani\Downloads\UniTechCollegeSystem\UniTechCollegeSystem4\UniTechCollegeSystem\bin\System.Buffers.dll
+D:\Users\Shyam Dattani\Downloads\UniTechCollegeSystem\UniTechCollegeSystem4\UniTechCollegeSystem\bin\System.Configuration.ConfigurationManager.dll
+D:\Users\Shyam Dattani\Downloads\UniTechCollegeSystem\UniTechCollegeSystem4\UniTechCollegeSystem\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Users\Shyam Dattani\Downloads\UniTechCollegeSystem\UniTechCollegeSystem4\UniTechCollegeSystem\bin\System.IO.Pipelines.dll
+D:\Users\Shyam Dattani\Downloads\UniTechCollegeSystem\UniTechCollegeSystem4\UniTechCollegeSystem\bin\System.Memory.dll
+D:\Users\Shyam Dattani\Downloads\UniTechCollegeSystem\UniTechCollegeSystem4\UniTechCollegeSystem\bin\System.Numerics.Vectors.dll
+D:\Users\Shyam Dattani\Downloads\UniTechCollegeSystem\UniTechCollegeSystem4\UniTechCollegeSystem\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Users\Shyam Dattani\Downloads\UniTechCollegeSystem\UniTechCollegeSystem4\UniTechCollegeSystem\bin\System.Threading.Tasks.Extensions.dll
+D:\Users\Shyam Dattani\Downloads\UniTechCollegeSystem\UniTechCollegeSystem4\UniTechCollegeSystem\bin\System.Web.Optimization.dll
+D:\Users\Shyam Dattani\Downloads\UniTechCollegeSystem\UniTechCollegeSystem4\UniTechCollegeSystem\bin\WebGrease.dll
+D:\Users\Shyam Dattani\Downloads\UniTechCollegeSystem\UniTechCollegeSystem4\UniTechCollegeSystem\bin\ZstdSharp.dll
+D:\Users\Shyam Dattani\Downloads\UniTechCollegeSystem\UniTechCollegeSystem4\UniTechCollegeSystem\bin\BouncyCastle.Cryptography.xml
+D:\Users\Shyam Dattani\Downloads\UniTechCollegeSystem\UniTechCollegeSystem4\UniTechCollegeSystem\bin\Google.Protobuf.pdb
+D:\Users\Shyam Dattani\Downloads\UniTechCollegeSystem\UniTechCollegeSystem4\UniTechCollegeSystem\bin\Google.Protobuf.xml
+D:\Users\Shyam Dattani\Downloads\UniTechCollegeSystem\UniTechCollegeSystem4\UniTechCollegeSystem\bin\K4os.Compression.LZ4.xml
+D:\Users\Shyam Dattani\Downloads\UniTechCollegeSystem\UniTechCollegeSystem4\UniTechCollegeSystem\bin\K4os.Compression.LZ4.Streams.xml
+D:\Users\Shyam Dattani\Downloads\UniTechCollegeSystem\UniTechCollegeSystem4\UniTechCollegeSystem\bin\K4os.Hash.xxHash.xml
+D:\Users\Shyam Dattani\Downloads\UniTechCollegeSystem\UniTechCollegeSystem4\UniTechCollegeSystem\bin\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Users\Shyam Dattani\Downloads\UniTechCollegeSystem\UniTechCollegeSystem4\UniTechCollegeSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Users\Shyam Dattani\Downloads\UniTechCollegeSystem\UniTechCollegeSystem4\UniTechCollegeSystem\bin\System.Buffers.xml
+D:\Users\Shyam Dattani\Downloads\UniTechCollegeSystem\UniTechCollegeSystem4\UniTechCollegeSystem\bin\System.Configuration.ConfigurationManager.xml
+D:\Users\Shyam Dattani\Downloads\UniTechCollegeSystem\UniTechCollegeSystem4\UniTechCollegeSystem\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Users\Shyam Dattani\Downloads\UniTechCollegeSystem\UniTechCollegeSystem4\UniTechCollegeSystem\bin\System.IO.Pipelines.xml
+D:\Users\Shyam Dattani\Downloads\UniTechCollegeSystem\UniTechCollegeSystem4\UniTechCollegeSystem\bin\System.Memory.xml
+D:\Users\Shyam Dattani\Downloads\UniTechCollegeSystem\UniTechCollegeSystem4\UniTechCollegeSystem\bin\System.Numerics.Vectors.xml
+D:\Users\Shyam Dattani\Downloads\UniTechCollegeSystem\UniTechCollegeSystem4\UniTechCollegeSystem\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Users\Shyam Dattani\Downloads\UniTechCollegeSystem\UniTechCollegeSystem4\UniTechCollegeSystem\bin\System.Threading.Tasks.Extensions.xml
+D:\Users\Shyam Dattani\Downloads\UniTechCollegeSystem\UniTechCollegeSystem4\UniTechCollegeSystem\bin\System.Web.Optimization.xml
+D:\Users\Shyam Dattani\Downloads\UniTechCollegeSystem\UniTechCollegeSystem4\UniTechCollegeSystem\bin\Newtonsoft.Json.xml
+D:\Users\Shyam Dattani\Downloads\UniTechCollegeSystem\UniTechCollegeSystem4\UniTechCollegeSystem\bin\Antlr3.Runtime.pdb
+D:\Users\Shyam Dattani\Downloads\UniTechCollegeSystem\UniTechCollegeSystem4\UniTechCollegeSystem\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\Users\Shyam Dattani\Downloads\UniTechCollegeSystem\UniTechCollegeSystem4\UniTechCollegeSystem\obj\Debug\UniTechCollegeSystem.csproj.AssemblyReference.cache
+D:\Users\Shyam Dattani\Downloads\UniTechCollegeSystem\UniTechCollegeSystem4\UniTechCollegeSystem\obj\Debug\UniTechCollegeSystem.csproj.CoreCompileInputs.cache
+D:\Users\Shyam Dattani\Downloads\UniTechCollegeSystem\UniTechCollegeSystem4\UniTechCollegeSystem\obj\Debug\UniTechC.22ECEDD7.Up2Date
+D:\Users\Shyam Dattani\Downloads\UniTechCollegeSystem\UniTechCollegeSystem4\UniTechCollegeSystem\obj\Debug\UniTechCollegeSystem.dll
+D:\Users\Shyam Dattani\Downloads\UniTechCollegeSystem\UniTechCollegeSystem4\UniTechCollegeSystem\obj\Debug\UniTechCollegeSystem.pdb
+C:\Users\gavin\Desktop\UniTechCollegeSystem4\UniTechCollegeSystem4\UniTechCollegeSystem\bin\UniTechCollegeSystem.dll.config
+C:\Users\gavin\Desktop\UniTechCollegeSystem4\UniTechCollegeSystem4\UniTechCollegeSystem\bin\UniTechCollegeSystem.dll
+C:\Users\gavin\Desktop\UniTechCollegeSystem4\UniTechCollegeSystem4\UniTechCollegeSystem\bin\UniTechCollegeSystem.pdb
+C:\Users\gavin\Desktop\UniTechCollegeSystem4\UniTechCollegeSystem4\UniTechCollegeSystem\bin\roslyn\csc.exe
+C:\Users\gavin\Desktop\UniTechCollegeSystem4\UniTechCollegeSystem4\UniTechCollegeSystem\bin\roslyn\csc.exe.config
+C:\Users\gavin\Desktop\UniTechCollegeSystem4\UniTechCollegeSystem4\UniTechCollegeSystem\bin\roslyn\csc.rsp
+C:\Users\gavin\Desktop\UniTechCollegeSystem4\UniTechCollegeSystem4\UniTechCollegeSystem\bin\roslyn\csi.exe
+C:\Users\gavin\Desktop\UniTechCollegeSystem4\UniTechCollegeSystem4\UniTechCollegeSystem\bin\roslyn\csi.exe.config
+C:\Users\gavin\Desktop\UniTechCollegeSystem4\UniTechCollegeSystem4\UniTechCollegeSystem\bin\roslyn\csi.rsp
+C:\Users\gavin\Desktop\UniTechCollegeSystem4\UniTechCollegeSystem4\UniTechCollegeSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\gavin\Desktop\UniTechCollegeSystem4\UniTechCollegeSystem4\UniTechCollegeSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\gavin\Desktop\UniTechCollegeSystem4\UniTechCollegeSystem4\UniTechCollegeSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\gavin\Desktop\UniTechCollegeSystem4\UniTechCollegeSystem4\UniTechCollegeSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\gavin\Desktop\UniTechCollegeSystem4\UniTechCollegeSystem4\UniTechCollegeSystem\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\gavin\Desktop\UniTechCollegeSystem4\UniTechCollegeSystem4\UniTechCollegeSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\gavin\Desktop\UniTechCollegeSystem4\UniTechCollegeSystem4\UniTechCollegeSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\gavin\Desktop\UniTechCollegeSystem4\UniTechCollegeSystem4\UniTechCollegeSystem\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\gavin\Desktop\UniTechCollegeSystem4\UniTechCollegeSystem4\UniTechCollegeSystem\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\gavin\Desktop\UniTechCollegeSystem4\UniTechCollegeSystem4\UniTechCollegeSystem\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+C:\Users\gavin\Desktop\UniTechCollegeSystem4\UniTechCollegeSystem4\UniTechCollegeSystem\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\gavin\Desktop\UniTechCollegeSystem4\UniTechCollegeSystem4\UniTechCollegeSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\gavin\Desktop\UniTechCollegeSystem4\UniTechCollegeSystem4\UniTechCollegeSystem\bin\roslyn\System.Buffers.dll
+C:\Users\gavin\Desktop\UniTechCollegeSystem4\UniTechCollegeSystem4\UniTechCollegeSystem\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\gavin\Desktop\UniTechCollegeSystem4\UniTechCollegeSystem4\UniTechCollegeSystem\bin\roslyn\System.Memory.dll
+C:\Users\gavin\Desktop\UniTechCollegeSystem4\UniTechCollegeSystem4\UniTechCollegeSystem\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\gavin\Desktop\UniTechCollegeSystem4\UniTechCollegeSystem4\UniTechCollegeSystem\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\gavin\Desktop\UniTechCollegeSystem4\UniTechCollegeSystem4\UniTechCollegeSystem\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\gavin\Desktop\UniTechCollegeSystem4\UniTechCollegeSystem4\UniTechCollegeSystem\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\gavin\Desktop\UniTechCollegeSystem4\UniTechCollegeSystem4\UniTechCollegeSystem\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\gavin\Desktop\UniTechCollegeSystem4\UniTechCollegeSystem4\UniTechCollegeSystem\bin\roslyn\vbc.exe
+C:\Users\gavin\Desktop\UniTechCollegeSystem4\UniTechCollegeSystem4\UniTechCollegeSystem\bin\roslyn\vbc.exe.config
+C:\Users\gavin\Desktop\UniTechCollegeSystem4\UniTechCollegeSystem4\UniTechCollegeSystem\bin\roslyn\vbc.rsp
+C:\Users\gavin\Desktop\UniTechCollegeSystem4\UniTechCollegeSystem4\UniTechCollegeSystem\bin\roslyn\VBCSCompiler.exe
+C:\Users\gavin\Desktop\UniTechCollegeSystem4\UniTechCollegeSystem4\UniTechCollegeSystem\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\gavin\Desktop\UniTechCollegeSystem4\UniTechCollegeSystem4\UniTechCollegeSystem\bin\Antlr3.Runtime.dll
+C:\Users\gavin\Desktop\UniTechCollegeSystem4\UniTechCollegeSystem4\UniTechCollegeSystem\bin\BouncyCastle.Cryptography.dll
+C:\Users\gavin\Desktop\UniTechCollegeSystem4\UniTechCollegeSystem4\UniTechCollegeSystem\bin\Google.Protobuf.dll
+C:\Users\gavin\Desktop\UniTechCollegeSystem4\UniTechCollegeSystem4\UniTechCollegeSystem\bin\K4os.Compression.LZ4.dll
+C:\Users\gavin\Desktop\UniTechCollegeSystem4\UniTechCollegeSystem4\UniTechCollegeSystem\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\gavin\Desktop\UniTechCollegeSystem4\UniTechCollegeSystem4\UniTechCollegeSystem\bin\K4os.Hash.xxHash.dll
+C:\Users\gavin\Desktop\UniTechCollegeSystem4\UniTechCollegeSystem4\UniTechCollegeSystem\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\gavin\Desktop\UniTechCollegeSystem4\UniTechCollegeSystem4\UniTechCollegeSystem\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\gavin\Desktop\UniTechCollegeSystem4\UniTechCollegeSystem4\UniTechCollegeSystem\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\gavin\Desktop\UniTechCollegeSystem4\UniTechCollegeSystem4\UniTechCollegeSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\gavin\Desktop\UniTechCollegeSystem4\UniTechCollegeSystem4\UniTechCollegeSystem\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\gavin\Desktop\UniTechCollegeSystem4\UniTechCollegeSystem4\UniTechCollegeSystem\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\gavin\Desktop\UniTechCollegeSystem4\UniTechCollegeSystem4\UniTechCollegeSystem\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\gavin\Desktop\UniTechCollegeSystem4\UniTechCollegeSystem4\UniTechCollegeSystem\bin\MySql.Data.dll
+C:\Users\gavin\Desktop\UniTechCollegeSystem4\UniTechCollegeSystem4\UniTechCollegeSystem\bin\Newtonsoft.Json.dll
+C:\Users\gavin\Desktop\UniTechCollegeSystem4\UniTechCollegeSystem4\UniTechCollegeSystem\bin\System.Buffers.dll
+C:\Users\gavin\Desktop\UniTechCollegeSystem4\UniTechCollegeSystem4\UniTechCollegeSystem\bin\System.Configuration.ConfigurationManager.dll
+C:\Users\gavin\Desktop\UniTechCollegeSystem4\UniTechCollegeSystem4\UniTechCollegeSystem\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\gavin\Desktop\UniTechCollegeSystem4\UniTechCollegeSystem4\UniTechCollegeSystem\bin\System.IO.Pipelines.dll
+C:\Users\gavin\Desktop\UniTechCollegeSystem4\UniTechCollegeSystem4\UniTechCollegeSystem\bin\System.Memory.dll
+C:\Users\gavin\Desktop\UniTechCollegeSystem4\UniTechCollegeSystem4\UniTechCollegeSystem\bin\System.Numerics.Vectors.dll
+C:\Users\gavin\Desktop\UniTechCollegeSystem4\UniTechCollegeSystem4\UniTechCollegeSystem\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\gavin\Desktop\UniTechCollegeSystem4\UniTechCollegeSystem4\UniTechCollegeSystem\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\gavin\Desktop\UniTechCollegeSystem4\UniTechCollegeSystem4\UniTechCollegeSystem\bin\System.Web.Optimization.dll
+C:\Users\gavin\Desktop\UniTechCollegeSystem4\UniTechCollegeSystem4\UniTechCollegeSystem\bin\WebGrease.dll
+C:\Users\gavin\Desktop\UniTechCollegeSystem4\UniTechCollegeSystem4\UniTechCollegeSystem\bin\ZstdSharp.dll
+C:\Users\gavin\Desktop\UniTechCollegeSystem4\UniTechCollegeSystem4\UniTechCollegeSystem\bin\BouncyCastle.Cryptography.xml
+C:\Users\gavin\Desktop\UniTechCollegeSystem4\UniTechCollegeSystem4\UniTechCollegeSystem\bin\Google.Protobuf.pdb
+C:\Users\gavin\Desktop\UniTechCollegeSystem4\UniTechCollegeSystem4\UniTechCollegeSystem\bin\Google.Protobuf.xml
+C:\Users\gavin\Desktop\UniTechCollegeSystem4\UniTechCollegeSystem4\UniTechCollegeSystem\bin\K4os.Compression.LZ4.xml
+C:\Users\gavin\Desktop\UniTechCollegeSystem4\UniTechCollegeSystem4\UniTechCollegeSystem\bin\K4os.Compression.LZ4.Streams.xml
+C:\Users\gavin\Desktop\UniTechCollegeSystem4\UniTechCollegeSystem4\UniTechCollegeSystem\bin\K4os.Hash.xxHash.xml
+C:\Users\gavin\Desktop\UniTechCollegeSystem4\UniTechCollegeSystem4\UniTechCollegeSystem\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\gavin\Desktop\UniTechCollegeSystem4\UniTechCollegeSystem4\UniTechCollegeSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\gavin\Desktop\UniTechCollegeSystem4\UniTechCollegeSystem4\UniTechCollegeSystem\bin\MySql.Data.xml
+C:\Users\gavin\Desktop\UniTechCollegeSystem4\UniTechCollegeSystem4\UniTechCollegeSystem\bin\System.Buffers.xml
+C:\Users\gavin\Desktop\UniTechCollegeSystem4\UniTechCollegeSystem4\UniTechCollegeSystem\bin\System.Configuration.ConfigurationManager.xml
+C:\Users\gavin\Desktop\UniTechCollegeSystem4\UniTechCollegeSystem4\UniTechCollegeSystem\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\gavin\Desktop\UniTechCollegeSystem4\UniTechCollegeSystem4\UniTechCollegeSystem\bin\System.IO.Pipelines.xml
+C:\Users\gavin\Desktop\UniTechCollegeSystem4\UniTechCollegeSystem4\UniTechCollegeSystem\bin\System.Memory.xml
+C:\Users\gavin\Desktop\UniTechCollegeSystem4\UniTechCollegeSystem4\UniTechCollegeSystem\bin\System.Numerics.Vectors.xml
+C:\Users\gavin\Desktop\UniTechCollegeSystem4\UniTechCollegeSystem4\UniTechCollegeSystem\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\gavin\Desktop\UniTechCollegeSystem4\UniTechCollegeSystem4\UniTechCollegeSystem\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\gavin\Desktop\UniTechCollegeSystem4\UniTechCollegeSystem4\UniTechCollegeSystem\bin\System.Web.Optimization.xml
+C:\Users\gavin\Desktop\UniTechCollegeSystem4\UniTechCollegeSystem4\UniTechCollegeSystem\bin\Newtonsoft.Json.xml
+C:\Users\gavin\Desktop\UniTechCollegeSystem4\UniTechCollegeSystem4\UniTechCollegeSystem\bin\Antlr3.Runtime.pdb
+C:\Users\gavin\Desktop\UniTechCollegeSystem4\UniTechCollegeSystem4\UniTechCollegeSystem\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\gavin\Desktop\UniTechCollegeSystem4\UniTechCollegeSystem4\UniTechCollegeSystem\obj\Debug\UniTechCollegeSystem.csproj.AssemblyReference.cache
+C:\Users\gavin\Desktop\UniTechCollegeSystem4\UniTechCollegeSystem4\UniTechCollegeSystem\obj\Debug\UniTechCollegeSystem.csproj.CoreCompileInputs.cache
+C:\Users\gavin\Desktop\UniTechCollegeSystem4\UniTechCollegeSystem4\UniTechCollegeSystem\obj\Debug\UniTechC.22ECEDD7.Up2Date
+C:\Users\gavin\Desktop\UniTechCollegeSystem4\UniTechCollegeSystem4\UniTechCollegeSystem\obj\Debug\UniTechCollegeSystem.dll
+C:\Users\gavin\Desktop\UniTechCollegeSystem4\UniTechCollegeSystem4\UniTechCollegeSystem\obj\Debug\UniTechCollegeSystem.pdb
+C:\Users\Shyam Dattani\source\repos\UniTechCollegeSystem4\UniTechCollegeSystem\UniTechCollegeSystem\bin\UniTechCollegeSystem.dll.config
+C:\Users\Shyam Dattani\source\repos\UniTechCollegeSystem4\UniTechCollegeSystem\UniTechCollegeSystem\bin\UniTechCollegeSystem.dll
+C:\Users\Shyam Dattani\source\repos\UniTechCollegeSystem4\UniTechCollegeSystem\UniTechCollegeSystem\bin\UniTechCollegeSystem.pdb
+C:\Users\Shyam Dattani\source\repos\UniTechCollegeSystem4\UniTechCollegeSystem\UniTechCollegeSystem\bin\roslyn\csc.exe
+C:\Users\Shyam Dattani\source\repos\UniTechCollegeSystem4\UniTechCollegeSystem\UniTechCollegeSystem\bin\roslyn\csc.exe.config
+C:\Users\Shyam Dattani\source\repos\UniTechCollegeSystem4\UniTechCollegeSystem\UniTechCollegeSystem\bin\roslyn\csc.rsp
+C:\Users\Shyam Dattani\source\repos\UniTechCollegeSystem4\UniTechCollegeSystem\UniTechCollegeSystem\bin\roslyn\csi.exe
+C:\Users\Shyam Dattani\source\repos\UniTechCollegeSystem4\UniTechCollegeSystem\UniTechCollegeSystem\bin\roslyn\csi.exe.config
+C:\Users\Shyam Dattani\source\repos\UniTechCollegeSystem4\UniTechCollegeSystem\UniTechCollegeSystem\bin\roslyn\csi.rsp
+C:\Users\Shyam Dattani\source\repos\UniTechCollegeSystem4\UniTechCollegeSystem\UniTechCollegeSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Shyam Dattani\source\repos\UniTechCollegeSystem4\UniTechCollegeSystem\UniTechCollegeSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Shyam Dattani\source\repos\UniTechCollegeSystem4\UniTechCollegeSystem\UniTechCollegeSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Shyam Dattani\source\repos\UniTechCollegeSystem4\UniTechCollegeSystem\UniTechCollegeSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Shyam Dattani\source\repos\UniTechCollegeSystem4\UniTechCollegeSystem\UniTechCollegeSystem\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Shyam Dattani\source\repos\UniTechCollegeSystem4\UniTechCollegeSystem\UniTechCollegeSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Shyam Dattani\source\repos\UniTechCollegeSystem4\UniTechCollegeSystem\UniTechCollegeSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Shyam Dattani\source\repos\UniTechCollegeSystem4\UniTechCollegeSystem\UniTechCollegeSystem\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Shyam Dattani\source\repos\UniTechCollegeSystem4\UniTechCollegeSystem\UniTechCollegeSystem\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Shyam Dattani\source\repos\UniTechCollegeSystem4\UniTechCollegeSystem\UniTechCollegeSystem\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+C:\Users\Shyam Dattani\source\repos\UniTechCollegeSystem4\UniTechCollegeSystem\UniTechCollegeSystem\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Shyam Dattani\source\repos\UniTechCollegeSystem4\UniTechCollegeSystem\UniTechCollegeSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Shyam Dattani\source\repos\UniTechCollegeSystem4\UniTechCollegeSystem\UniTechCollegeSystem\bin\roslyn\System.Buffers.dll
+C:\Users\Shyam Dattani\source\repos\UniTechCollegeSystem4\UniTechCollegeSystem\UniTechCollegeSystem\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Shyam Dattani\source\repos\UniTechCollegeSystem4\UniTechCollegeSystem\UniTechCollegeSystem\bin\roslyn\System.Memory.dll
+C:\Users\Shyam Dattani\source\repos\UniTechCollegeSystem4\UniTechCollegeSystem\UniTechCollegeSystem\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\Shyam Dattani\source\repos\UniTechCollegeSystem4\UniTechCollegeSystem\UniTechCollegeSystem\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Shyam Dattani\source\repos\UniTechCollegeSystem4\UniTechCollegeSystem\UniTechCollegeSystem\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Shyam Dattani\source\repos\UniTechCollegeSystem4\UniTechCollegeSystem\UniTechCollegeSystem\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Shyam Dattani\source\repos\UniTechCollegeSystem4\UniTechCollegeSystem\UniTechCollegeSystem\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Shyam Dattani\source\repos\UniTechCollegeSystem4\UniTechCollegeSystem\UniTechCollegeSystem\bin\roslyn\vbc.exe
+C:\Users\Shyam Dattani\source\repos\UniTechCollegeSystem4\UniTechCollegeSystem\UniTechCollegeSystem\bin\roslyn\vbc.exe.config
+C:\Users\Shyam Dattani\source\repos\UniTechCollegeSystem4\UniTechCollegeSystem\UniTechCollegeSystem\bin\roslyn\vbc.rsp
+C:\Users\Shyam Dattani\source\repos\UniTechCollegeSystem4\UniTechCollegeSystem\UniTechCollegeSystem\bin\roslyn\VBCSCompiler.exe
+C:\Users\Shyam Dattani\source\repos\UniTechCollegeSystem4\UniTechCollegeSystem\UniTechCollegeSystem\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Shyam Dattani\source\repos\UniTechCollegeSystem4\UniTechCollegeSystem\UniTechCollegeSystem\bin\Antlr3.Runtime.dll
+C:\Users\Shyam Dattani\source\repos\UniTechCollegeSystem4\UniTechCollegeSystem\UniTechCollegeSystem\bin\BouncyCastle.Cryptography.dll
+C:\Users\Shyam Dattani\source\repos\UniTechCollegeSystem4\UniTechCollegeSystem\UniTechCollegeSystem\bin\Google.Protobuf.dll
+C:\Users\Shyam Dattani\source\repos\UniTechCollegeSystem4\UniTechCollegeSystem\UniTechCollegeSystem\bin\K4os.Compression.LZ4.dll
+C:\Users\Shyam Dattani\source\repos\UniTechCollegeSystem4\UniTechCollegeSystem\UniTechCollegeSystem\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\Shyam Dattani\source\repos\UniTechCollegeSystem4\UniTechCollegeSystem\UniTechCollegeSystem\bin\K4os.Hash.xxHash.dll
+C:\Users\Shyam Dattani\source\repos\UniTechCollegeSystem4\UniTechCollegeSystem\UniTechCollegeSystem\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Shyam Dattani\source\repos\UniTechCollegeSystem4\UniTechCollegeSystem\UniTechCollegeSystem\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Shyam Dattani\source\repos\UniTechCollegeSystem4\UniTechCollegeSystem\UniTechCollegeSystem\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Shyam Dattani\source\repos\UniTechCollegeSystem4\UniTechCollegeSystem\UniTechCollegeSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Shyam Dattani\source\repos\UniTechCollegeSystem4\UniTechCollegeSystem\UniTechCollegeSystem\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Shyam Dattani\source\repos\UniTechCollegeSystem4\UniTechCollegeSystem\UniTechCollegeSystem\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Shyam Dattani\source\repos\UniTechCollegeSystem4\UniTechCollegeSystem\UniTechCollegeSystem\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Shyam Dattani\source\repos\UniTechCollegeSystem4\UniTechCollegeSystem\UniTechCollegeSystem\bin\Newtonsoft.Json.dll
+C:\Users\Shyam Dattani\source\repos\UniTechCollegeSystem4\UniTechCollegeSystem\UniTechCollegeSystem\bin\System.Buffers.dll
+C:\Users\Shyam Dattani\source\repos\UniTechCollegeSystem4\UniTechCollegeSystem\UniTechCollegeSystem\bin\System.Configuration.ConfigurationManager.dll
+C:\Users\Shyam Dattani\source\repos\UniTechCollegeSystem4\UniTechCollegeSystem\UniTechCollegeSystem\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Shyam Dattani\source\repos\UniTechCollegeSystem4\UniTechCollegeSystem\UniTechCollegeSystem\bin\System.IO.Pipelines.dll
+C:\Users\Shyam Dattani\source\repos\UniTechCollegeSystem4\UniTechCollegeSystem\UniTechCollegeSystem\bin\System.Memory.dll
+C:\Users\Shyam Dattani\source\repos\UniTechCollegeSystem4\UniTechCollegeSystem\UniTechCollegeSystem\bin\System.Numerics.Vectors.dll
+C:\Users\Shyam Dattani\source\repos\UniTechCollegeSystem4\UniTechCollegeSystem\UniTechCollegeSystem\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Shyam Dattani\source\repos\UniTechCollegeSystem4\UniTechCollegeSystem\UniTechCollegeSystem\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Shyam Dattani\source\repos\UniTechCollegeSystem4\UniTechCollegeSystem\UniTechCollegeSystem\bin\System.Web.Optimization.dll
+C:\Users\Shyam Dattani\source\repos\UniTechCollegeSystem4\UniTechCollegeSystem\UniTechCollegeSystem\bin\WebGrease.dll
+C:\Users\Shyam Dattani\source\repos\UniTechCollegeSystem4\UniTechCollegeSystem\UniTechCollegeSystem\bin\ZstdSharp.dll
+C:\Users\Shyam Dattani\source\repos\UniTechCollegeSystem4\UniTechCollegeSystem\UniTechCollegeSystem\bin\BouncyCastle.Cryptography.xml
+C:\Users\Shyam Dattani\source\repos\UniTechCollegeSystem4\UniTechCollegeSystem\UniTechCollegeSystem\bin\Google.Protobuf.pdb
+C:\Users\Shyam Dattani\source\repos\UniTechCollegeSystem4\UniTechCollegeSystem\UniTechCollegeSystem\bin\Google.Protobuf.xml
+C:\Users\Shyam Dattani\source\repos\UniTechCollegeSystem4\UniTechCollegeSystem\UniTechCollegeSystem\bin\K4os.Compression.LZ4.xml
+C:\Users\Shyam Dattani\source\repos\UniTechCollegeSystem4\UniTechCollegeSystem\UniTechCollegeSystem\bin\K4os.Compression.LZ4.Streams.xml
+C:\Users\Shyam Dattani\source\repos\UniTechCollegeSystem4\UniTechCollegeSystem\UniTechCollegeSystem\bin\K4os.Hash.xxHash.xml
+C:\Users\Shyam Dattani\source\repos\UniTechCollegeSystem4\UniTechCollegeSystem\UniTechCollegeSystem\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Shyam Dattani\source\repos\UniTechCollegeSystem4\UniTechCollegeSystem\UniTechCollegeSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Shyam Dattani\source\repos\UniTechCollegeSystem4\UniTechCollegeSystem\UniTechCollegeSystem\bin\System.Buffers.xml
+C:\Users\Shyam Dattani\source\repos\UniTechCollegeSystem4\UniTechCollegeSystem\UniTechCollegeSystem\bin\System.Configuration.ConfigurationManager.xml
+C:\Users\Shyam Dattani\source\repos\UniTechCollegeSystem4\UniTechCollegeSystem\UniTechCollegeSystem\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Shyam Dattani\source\repos\UniTechCollegeSystem4\UniTechCollegeSystem\UniTechCollegeSystem\bin\System.IO.Pipelines.xml
+C:\Users\Shyam Dattani\source\repos\UniTechCollegeSystem4\UniTechCollegeSystem\UniTechCollegeSystem\bin\System.Memory.xml
+C:\Users\Shyam Dattani\source\repos\UniTechCollegeSystem4\UniTechCollegeSystem\UniTechCollegeSystem\bin\System.Numerics.Vectors.xml
+C:\Users\Shyam Dattani\source\repos\UniTechCollegeSystem4\UniTechCollegeSystem\UniTechCollegeSystem\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Shyam Dattani\source\repos\UniTechCollegeSystem4\UniTechCollegeSystem\UniTechCollegeSystem\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Shyam Dattani\source\repos\UniTechCollegeSystem4\UniTechCollegeSystem\UniTechCollegeSystem\bin\System.Web.Optimization.xml
+C:\Users\Shyam Dattani\source\repos\UniTechCollegeSystem4\UniTechCollegeSystem\UniTechCollegeSystem\bin\Newtonsoft.Json.xml
+C:\Users\Shyam Dattani\source\repos\UniTechCollegeSystem4\UniTechCollegeSystem\UniTechCollegeSystem\bin\Antlr3.Runtime.pdb
+C:\Users\Shyam Dattani\source\repos\UniTechCollegeSystem4\UniTechCollegeSystem\UniTechCollegeSystem\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Shyam Dattani\source\repos\UniTechCollegeSystem4\UniTechCollegeSystem\UniTechCollegeSystem\obj\Debug\UniTechCollegeSystem.csproj.AssemblyReference.cache
+C:\Users\Shyam Dattani\source\repos\UniTechCollegeSystem4\UniTechCollegeSystem\UniTechCollegeSystem\obj\Debug\UniTechCollegeSystem.csproj.CoreCompileInputs.cache
+C:\Users\Shyam Dattani\source\repos\UniTechCollegeSystem4\UniTechCollegeSystem\UniTechCollegeSystem\obj\Debug\UniTechC.22ECEDD7.Up2Date
+C:\Users\Shyam Dattani\source\repos\UniTechCollegeSystem4\UniTechCollegeSystem\UniTechCollegeSystem\obj\Debug\UniTechCollegeSystem.dll
+C:\Users\Shyam Dattani\source\repos\UniTechCollegeSystem4\UniTechCollegeSystem\UniTechCollegeSystem\obj\Debug\UniTechCollegeSystem.pdb
