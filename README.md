@@ -12,7 +12,7 @@ The **UniTech College System** is a dynamic web-based student enrolment platform
 - **Access Control**: Pages are protected using session checks to restrict access to authenticated users only.
 - **Responsive UI**: Clean and professional interface built with Bootstrap and a consistent Site.Master layout.
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **ASP.NET Web Forms**: For building dynamic server-rendered web pages using `.aspx` files and C# code-behind.
 - **.NET Framework 4.8**: The development platform that supports ASP.NET Web Forms.
@@ -27,95 +27,110 @@ The **UniTech College System** is a dynamic web-based student enrolment platform
 - **Session Management**: Used to handle user authentication and page access control.
 
 ## How to Run the Project
-To get started with the BookingConsoleApp, follow these steps:
+
+To get started with the UniTechCollegeSystem, follow these steps:
 
 1. **Clone the repository:**
     ```
-    git clone https://github.com/Shyam-Dattani/BookingConsoleApp.git
+    git clone https://github.com/Shyam-Dattani/UniTechCollegeSystem.git
     ```
-2. **Open the solution** in your preferred IDE, ideally Visual Studio Installer.
 
-3. **Restore the NuGet packages:**
-    ```
-    dotnet restore
-    ```
-    
-4. **Update the `appsettings.json` and `App.config`** with your Booking.com API credentials and other necessary configuration settings.
+2. **Open the solution** in Visual Studio 2022.
 
-5. **Run the application:**
+3. **Set up the MySQL database:**
+   - Open **MySQL Workbench**.
+   - Create a new database (e.g., `unitech`).
+   - Run the following SQL scripts located in the `/SQL Scripts/` folder:
+     - `Create-tables.sql` – Creates all required tables.
+     - `insert_courses_modules.sql` – Inserts sample course and module data.
+
+4. **Update the `web.config`** with your MySQL credentials:
+    ```xml
+    <connectionStrings>
+      <add name="MySqlConnection" 
+           connectionString="Server=localhost;Database=unitech;Uid=root;Pwd=yourpassword;" 
+           providerName="MySql.Data.MySqlClient"/>
+    </connectionStrings>
     ```
-    dotnet run
-    ```
+
+5. **Restore NuGet packages:**
+   - Visual Studio should handle this automatically.
+   - If not, right-click the solution and select **Restore NuGet Packages**.
+
+6. **Run the application:**
+   - Press `Ctrl + F5` to build and run without debugging.
+   - The system will open in your browser using IIS Express.
+
+> You can now register, log in, and explore the full student enrolment experience!
     
 ## Folder Structure
 ```
-BookingConsoleApp
+UniTechCollegeSystem
 │
-├── Web API Integration Project Design
-│   └── Web API Integration Project Design.pdf
-├── Web API Integration Project Development
-│   ├── Project Source Code
-│   │   └── BookingConsoleApp
-│   │       ├── Models
-│   │       │   ├── HotelData.cs
-│   │       │   ├── HotelDetails.cs
-│   │       │   ├── HotelPhoto.cs
-│   │       │   ├── HotelReview.cs
-│   │       │   ├── HotelSearch.cs
-│   │       │   ├── RoomAvailability.cs
-│   │       │   ├── SearchFlights.cs
-│   │       │   └── SearchTaxi.cs
-│   │       ├── Properties
-│   │       │   └── AssemblyInfo.cs
-│   │       ├── Services
-│   │       ├── App.config
-│   │       ├── BookingConsoleApp.csproj
-│   │       ├── Program.cs
-│   │       ├── appsettings.json
-│   │       ├── packages.config
-│   │       ├── Recorded Data
-│   │       ├── .gitattributes
-│   │       ├── .gitignore
-│   │       └── BookingConsoleApp.sln
-│   └── Web API Integration Project Development.pdf
-├── Web API Integration Project Presentation
-│   ├── Demo of AceBooking System.pdf
-│   └── Web Integration Project Presentation for Booking.com.pptx
+├── UniTechCollegeSystem
+│ ├── Pages
+│ │ ├── AboutUs.aspx
+│ │ ├── courses.aspx
+│ │ ├── dashboard.aspx
+│ │ ├── Home.aspx
+│ │ ├── login.aspx
+│ │ ├── PersonalDetails.aspx
+│ │ └── Register.aspx
+│ ├── Site.Master
+│ ├── web.config
+│ └── Global.asax
+│
+├── SQL Scripts
+│ ├── Create-tables.sql
+│ └── insert_courses_modules.sql
+│
+├── Project Report
+│ └── Design and Development of an Integrated University IT College System - An Agile Approach Report.pdf
+│
+├── LICENSE
+├── README.md
+└── UniTechCollegeSystem.sln
 ```
+
 ## Explanation of Key Folders and Files
 
-### Models:
-- **HotelData.cs**: Contains the data structure for hotel-related information.
-- **HotelDetails.cs**: Holds detailed information about specific hotels.
-- **HotelPhoto.cs**: Represents the structure for hotel images.
-- **HotelReview.cs**: Contains customer review data for hotels.
-- **HotelSearch.cs**: Allows the user to search for hotels.
-- **RoomAvailability.cs**: Represents room availability information for hotels.
-- **SearchFlights.cs**: Defines the structure for flight search results.
-- **SearchTaxi.cs**: Defines the structure for taxi search results.
+### Pages:
+- **AboutUs.aspx**: Static information page about the university/college.
+- **courses.aspx**: Displays all available courses and allows selection.
+- **dashboard.aspx**: The main landing page after login, showing personalised info.
+- **Home.aspx**: Welcome page for unauthenticated users.
+- **login.aspx**: Allows users to securely log in to their account.
+- **PersonalDetails.aspx**: Enables users to view and update their personal information.
+- **Register.aspx**: New user registration page.
 
-### Properties:
-- **AssemblyInfo.cs**: Contains metadata about the assembly.
+> *Note: Each `.aspx` page has a corresponding `.aspx.cs` code-behind file that handles server-side logic, user interactions, and database operations.*
 
-### Services:
-- Contains the business logic for interacting with the Booking.com API, handling searches for hotels, taxis, and flights.
+### Site.Master:
+- Provides consistent navigation and layout across all pages using a master page template.
 
-### Configuration Files:
-- **App.config**: Contains application-level configuration settings.
-- **appsettings.json**: Holds JSON formatted configuration settings for the application.
-- **packages.config**: Lists the NuGet packages used in the project.
+### web.config:
+- Contains database connection strings and global ASP.NET configuration settings.
 
-### Program.cs:
-The entry point of the application, where the main logic and user interface flow are defined.
+### Global.asax:
+- Handles application-level events such as session start and end.
 
-### Recorded Data:
-Contains recorded payment information and error logs.
+### SQL Scripts:
+- **Create-tables.sql**: Creates all necessary tables in the MySQL database (e.g., Users, Courses, Modules, Enrollments).
+- **insert_courses_modules.sql**: Inserts sample course and module data into the database for testing/demo purposes.
+
+### Project Report:
+- **Design and Development of an Integrated University IT College System - An Agile Approach Report.pdf**: The final academic report describing the system's planning, development, and evaluation.
 
 ### Other Files:
-- **.gitattributes**: Defines attributes for pathnames.
-- **.gitignore**: Specifies intentionally untracked files to ignore.
-- **BookingConsoleApp.csproj**: The project file that defines the project configuration and dependencies.
-- **BookingConsoleApp.sln**: The solution file that contains project configurations and build settings.
+- **LICENSE**: MIT License for open-source use.
+- **README.md**: This documentation file describing the project.
+- **UniTechCollegeSystem.sln**: The Visual Studio solution file to open the entire project.
 
-## Contributing
-Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
+## Contributing:
+Contributions are welcome!
+
+If you spot a bug, have an idea for improvement, or want to contribute a new feature, feel free to open an issue or submit a pull request.
+
+Please ensure your code is clean, consistent with the existing structure, and well-tested before submitting.
+
+Thank you for helping improve the UniTech College System!
