@@ -32,7 +32,7 @@ To get started with the UniTechCollegeSystem, follow these steps:
 
 1. **Clone the repository:**
     ```
-    git clone https://github.com/Shyam-Dattani/UniTechCollegeSystem.git
+    git clone https://github.com/ShyammD/UniTechCollegeSystem.git
     ```
 
 2. **Open the solution** in Visual Studio 2022.
